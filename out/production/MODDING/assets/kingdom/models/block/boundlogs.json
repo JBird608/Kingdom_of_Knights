@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "kingdom:blocks/logs_side",
+    "front": "kingdom:blocks/logs_face",
+    "side": "kingdom:blocks/logs_side"
+  }
+}

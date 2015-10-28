@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "kingdom:boundlogs" },
+    "facing=south": { "model": "kingdom:boundlogs", "y": 180 },
+    "facing=west":  { "model": "kingdom:boundlogs", "y": 270 },
+    "facing=east":  { "model": "kingdom:boundlogs", "y": 90 }
+  }
+}
